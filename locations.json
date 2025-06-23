@@ -1,5 +1,1202 @@
 [
-  {"name": "Berlin", "country": "DE", "latitude": 52.52, "longitude": 13.405},
-  {"name": "Nairobi", "country": "KE", "latitude": -1.2921, "longitude": 36.8219},
-  {"name": "Sydney", "country": "AU", "latitude": -33.8688, "longitude": 151.2093}
+  {
+    "name": "Zas",
+    "country": "ES",
+    "latitude": 43.09885,
+    "longitude": -8.91558
+  },
+  {
+    "name": "M\u00fcllheim",
+    "country": "CH",
+    "latitude": 47.60195,
+    "longitude": 9.00357
+  },
+  {
+    "name": "Xinluoqu",
+    "country": "CN",
+    "latitude": 25.10222,
+    "longitude": 117.03028
+  },
+  {
+    "name": "Haddenham",
+    "country": "GB",
+    "latitude": 52.35789,
+    "longitude": 0.14827
+  },
+  {
+    "name": "Tricesimo",
+    "country": "IT",
+    "latitude": 46.16058,
+    "longitude": 13.21566
+  },
+  {
+    "name": "Soufri\u00e8re",
+    "country": "DM",
+    "latitude": 15.23374,
+    "longitude": -61.35881
+  },
+  {
+    "name": "Okunevka",
+    "country": "UA",
+    "latitude": 45.36855,
+    "longitude": 32.76357
+  },
+  {
+    "name": "Athenry",
+    "country": "IE",
+    "latitude": 53.29639,
+    "longitude": -8.74306
+  },
+  {
+    "name": "Hatch End",
+    "country": "GB",
+    "latitude": 51.60789,
+    "longitude": -0.37367
+  },
+  {
+    "name": "Bro\u0219teni",
+    "country": "RO",
+    "latitude": 44.72053,
+    "longitude": 25.50935
+  },
+  {
+    "name": "Ath Thum\u0101mah Khams\u016bn",
+    "country": "QA",
+    "latitude": 25.21958,
+    "longitude": 51.55323
+  },
+  {
+    "name": "Yangjiaping",
+    "country": "CN",
+    "latitude": 29.50512,
+    "longitude": 106.50135
+  },
+  {
+    "name": "Santa Eulalia de G\u00e1llego",
+    "country": "ES",
+    "latitude": 42.287,
+    "longitude": -0.76065
+  },
+  {
+    "name": "Begijnendijk",
+    "country": "BE",
+    "latitude": 51.01942,
+    "longitude": 4.78377
+  },
+  {
+    "name": "Angan-Konankro",
+    "country": "CI",
+    "latitude": 6.77765,
+    "longitude": -4.89092
+  },
+  {
+    "name": "Dalyellup",
+    "country": "AU",
+    "latitude": -33.40844,
+    "longitude": 115.61506
+  },
+  {
+    "name": "Blomberg",
+    "country": "DE",
+    "latitude": 51.94331,
+    "longitude": 9.09067
+  },
+  {
+    "name": "Salas de Bureba",
+    "country": "ES",
+    "latitude": 42.6919,
+    "longitude": -3.47359
+  },
+  {
+    "name": "Adoukro",
+    "country": "CI",
+    "latitude": 7.43868,
+    "longitude": -3.41997
+  },
+  {
+    "name": "Kangkar",
+    "country": "SG",
+    "latitude": 1.37611,
+    "longitude": 103.90167
+  },
+  {
+    "name": "Kulundu",
+    "country": "KG",
+    "latitude": 40.10635,
+    "longitude": 69.64127
+  },
+  {
+    "name": "Maz\u00e8res",
+    "country": "FR",
+    "latitude": 43.25174,
+    "longitude": 1.67816
+  },
+  {
+    "name": "Berat",
+    "country": "AL",
+    "latitude": 40.70583,
+    "longitude": 19.95222
+  },
+  {
+    "name": "Bail\u00e9n",
+    "country": "ES",
+    "latitude": 38.09639,
+    "longitude": -3.77786
+  },
+  {
+    "name": "San Sim\u00f3n de la Laguna",
+    "country": "MX",
+    "latitude": 19.29273,
+    "longitude": -100.0807
+  },
+  {
+    "name": "Virje",
+    "country": "HR",
+    "latitude": 46.06722,
+    "longitude": 16.99
+  },
+  {
+    "name": "Hochburg-Ach",
+    "country": "AT",
+    "latitude": 48.13001,
+    "longitude": 12.87735
+  },
+  {
+    "name": "Congresbury",
+    "country": "GB",
+    "latitude": 51.37135,
+    "longitude": -2.81018
+  },
+  {
+    "name": "La Soledad",
+    "country": "MX",
+    "latitude": 20.60792,
+    "longitude": -101.41558
+  },
+  {
+    "name": "Amurskoye",
+    "country": "UA",
+    "latitude": 45.27822,
+    "longitude": 34.12823
+  },
+  {
+    "name": "Machulishchy",
+    "country": "BY",
+    "latitude": 53.7788,
+    "longitude": 27.5948
+  },
+  {
+    "name": "Rechthalten",
+    "country": "CH",
+    "latitude": 46.76766,
+    "longitude": 7.24028
+  },
+  {
+    "name": "Murgeni",
+    "country": "RO",
+    "latitude": 46.20444,
+    "longitude": 28.01972
+  },
+  {
+    "name": "Zahesi",
+    "country": "GE",
+    "latitude": 41.82458,
+    "longitude": 44.75361
+  },
+  {
+    "name": "Miami Heights",
+    "country": "US",
+    "latitude": 39.16506,
+    "longitude": -84.7205
+  },
+  {
+    "name": "Gro\u017enjan",
+    "country": "HR",
+    "latitude": 45.37889,
+    "longitude": 13.72389
+  },
+  {
+    "name": "Altea",
+    "country": "ES",
+    "latitude": 38.59878,
+    "longitude": -0.05151
+  },
+  {
+    "name": "Forest City",
+    "country": "MY",
+    "latitude": 1.33884,
+    "longitude": 103.58876
+  },
+  {
+    "name": "Breisach am Rhein",
+    "country": "DE",
+    "latitude": 48.03279,
+    "longitude": 7.58294
+  },
+  {
+    "name": "Pfullendorf",
+    "country": "DE",
+    "latitude": 47.9261,
+    "longitude": 9.2578
+  },
+  {
+    "name": "C\u00e2mara de Lobos",
+    "country": "PT",
+    "latitude": 32.65043,
+    "longitude": -16.97718
+  },
+  {
+    "name": "Alor Gajah",
+    "country": "MY",
+    "latitude": 2.3804,
+    "longitude": 102.2089
+  },
+  {
+    "name": "Dehu",
+    "country": "IN",
+    "latitude": 18.71851,
+    "longitude": 73.76635
+  },
+  {
+    "name": "Perranarworthal",
+    "country": "GB",
+    "latitude": 50.20575,
+    "longitude": -5.11993
+  },
+  {
+    "name": "Clamart",
+    "country": "FR",
+    "latitude": 48.80299,
+    "longitude": 2.26692
+  },
+  {
+    "name": "Pont-Saint-Esprit",
+    "country": "FR",
+    "latitude": 44.25656,
+    "longitude": 4.6478
+  },
+  {
+    "name": "Murg\u016bd",
+    "country": "IN",
+    "latitude": 16.39604,
+    "longitude": 74.19142
+  },
+  {
+    "name": "Septfonds",
+    "country": "FR",
+    "latitude": 44.17831,
+    "longitude": 1.61806
+  },
+  {
+    "name": "Macchia",
+    "country": "IT",
+    "latitude": 40.65353,
+    "longitude": 14.97879
+  },
+  {
+    "name": "Gribouo",
+    "country": "CI",
+    "latitude": 6.19511,
+    "longitude": -6.9132
+  },
+  {
+    "name": "San Lucas ( Pueblo Nuevo de Colan)",
+    "country": "PE",
+    "latitude": -4.90874,
+    "longitude": -81.05686
+  },
+  {
+    "name": "Ulladulla",
+    "country": "AU",
+    "latitude": -35.35906,
+    "longitude": 150.47247
+  },
+  {
+    "name": "Czarnk\u00f3w",
+    "country": "PL",
+    "latitude": 52.90214,
+    "longitude": 16.56413
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "latitude": 43.97757,
+    "longitude": -71.68508
+  },
+  {
+    "name": "Valderrobres",
+    "country": "ES",
+    "latitude": 40.87209,
+    "longitude": 0.15431
+  },
+  {
+    "name": "Prachin Buri",
+    "country": "TH",
+    "latitude": 14.04992,
+    "longitude": 101.36864
+  },
+  {
+    "name": "San Jos\u00e9 de Chazo",
+    "country": "EC",
+    "latitude": -1.53032,
+    "longitude": -78.55303
+  },
+  {
+    "name": "Preljina",
+    "country": "RS",
+    "latitude": 43.91454,
+    "longitude": 20.40677
+  },
+  {
+    "name": "Kamenice",
+    "country": "CZ",
+    "latitude": 49.36659,
+    "longitude": 15.78023
+  },
+  {
+    "name": "Tarsadi",
+    "country": "IN",
+    "latitude": 21.46996,
+    "longitude": 72.9521
+  },
+  {
+    "name": "Mazuecos de Valdeginate",
+    "country": "ES",
+    "latitude": 42.16814,
+    "longitude": -4.84059
+  },
+  {
+    "name": "Delta",
+    "country": "CA",
+    "latitude": 49.14399,
+    "longitude": -122.9068
+  },
+  {
+    "name": "\u00c7lirim",
+    "country": "AL",
+    "latitude": 40.4175,
+    "longitude": 20.55028
+  },
+  {
+    "name": "Jundia\u00ed",
+    "country": "BR",
+    "latitude": -23.18639,
+    "longitude": -46.88417
+  },
+  {
+    "name": "Albanel",
+    "country": "CA",
+    "latitude": 48.88324,
+    "longitude": -72.44867
+  },
+  {
+    "name": "Mornington",
+    "country": "AU",
+    "latitude": -20.73415,
+    "longitude": 139.49586
+  },
+  {
+    "name": "Zawid\u00f3w",
+    "country": "PL",
+    "latitude": 51.02546,
+    "longitude": 15.06213
+  },
+  {
+    "name": "K\u00fcrk\u00e7\u00fcler",
+    "country": "TR",
+    "latitude": 40.73339,
+    "longitude": 32.2133
+  },
+  {
+    "name": "Sola",
+    "country": "VU",
+    "latitude": -13.87611,
+    "longitude": 167.55167
+  },
+  {
+    "name": "Ashida",
+    "country": "JP",
+    "latitude": 36.26983,
+    "longitude": 138.31763
+  },
+  {
+    "name": "Path\u0101nkot",
+    "country": "IN",
+    "latitude": 32.27484,
+    "longitude": 75.65287
+  },
+  {
+    "name": "Nodeland",
+    "country": "NO",
+    "latitude": 58.15517,
+    "longitude": 7.83576
+  },
+  {
+    "name": "Gutenzell-H\u00fcrbel",
+    "country": "DE",
+    "latitude": 48.11667,
+    "longitude": 9.98333
+  },
+  {
+    "name": "Abbotsford",
+    "country": "CA",
+    "latitude": 49.05798,
+    "longitude": -122.25257
+  },
+  {
+    "name": "Ucuma",
+    "country": "AO",
+    "latitude": -12.96121,
+    "longitude": 15.05958
+  },
+  {
+    "name": "Mortagne-sur-S\u00e8vre",
+    "country": "FR",
+    "latitude": 46.99209,
+    "longitude": -0.95291
+  },
+  {
+    "name": "Buckley",
+    "country": "US",
+    "latitude": 47.16316,
+    "longitude": -122.02678
+  },
+  {
+    "name": "Espinosa del Camino",
+    "country": "ES",
+    "latitude": 42.4059,
+    "longitude": -3.28019
+  },
+  {
+    "name": "Hoani",
+    "country": "KM",
+    "latitude": -12.25083,
+    "longitude": 43.67472
+  },
+  {
+    "name": "Toreo Bajo (El Toreo Bajo)",
+    "country": "MX",
+    "latitude": 19.44472,
+    "longitude": -102.00444
+  },
+  {
+    "name": "Qacha\u2019s Nek",
+    "country": "LS",
+    "latitude": -30.11537,
+    "longitude": 28.68936
+  },
+  {
+    "name": "Profondeville",
+    "country": "BE",
+    "latitude": 50.37581,
+    "longitude": 4.86506
+  },
+  {
+    "name": "Villa d'Oneta",
+    "country": "IT",
+    "latitude": 45.87074,
+    "longitude": 9.81929
+  },
+  {
+    "name": "Umirim",
+    "country": "BR",
+    "latitude": -3.67722,
+    "longitude": -39.35028
+  },
+  {
+    "name": "Si Satchanalai",
+    "country": "TH",
+    "latitude": 17.51692,
+    "longitude": 99.75978
+  },
+  {
+    "name": "Aluni\u015f",
+    "country": "RO",
+    "latitude": 46.89287,
+    "longitude": 24.82855
+  },
+  {
+    "name": "Loiyangalani",
+    "country": "KE",
+    "latitude": 2.74439,
+    "longitude": 36.7146
+  },
+  {
+    "name": "Shcherbinka",
+    "country": "RU",
+    "latitude": 55.49972,
+    "longitude": 37.55972
+  },
+  {
+    "name": "Sant'Anna d'Alfaedo",
+    "country": "IT",
+    "latitude": 45.62719,
+    "longitude": 10.95168
+  },
+  {
+    "name": "T\u00e2n Hi\u1ec7p",
+    "country": "VN",
+    "latitude": 10.44905,
+    "longitude": 106.34386
+  },
+  {
+    "name": "Toritama",
+    "country": "BR",
+    "latitude": -8.00667,
+    "longitude": -36.05667
+  },
+  {
+    "name": "Lodeynoye Pole",
+    "country": "RU",
+    "latitude": 60.72564,
+    "longitude": 33.56063
+  },
+  {
+    "name": "Poynton",
+    "country": "GB",
+    "latitude": 53.35,
+    "longitude": -2.11667
+  },
+  {
+    "name": "Kabo",
+    "country": "NG",
+    "latitude": 11.85606,
+    "longitude": 8.1702
+  },
+  {
+    "name": "Torricella Peligna",
+    "country": "IT",
+    "latitude": 42.02397,
+    "longitude": 14.25854
+  },
+  {
+    "name": "Thawat Buri",
+    "country": "TH",
+    "latitude": 16.0385,
+    "longitude": 103.74647
+  },
+  {
+    "name": "Frazeysburg",
+    "country": "US",
+    "latitude": 40.11729,
+    "longitude": -82.11931
+  },
+  {
+    "name": "Phrai Bueng",
+    "country": "TH",
+    "latitude": 14.74833,
+    "longitude": 104.36261
+  },
+  {
+    "name": "Komabo",
+    "country": "CI",
+    "latitude": 7.83871,
+    "longitude": -3.41915
+  },
+  {
+    "name": "El Cortezo",
+    "country": "PA",
+    "latitude": 7.42906,
+    "longitude": -80.63256
+  },
+  {
+    "name": "H\u0103rman",
+    "country": "RO",
+    "latitude": 45.71667,
+    "longitude": 25.68333
+  },
+  {
+    "name": "Langnga",
+    "country": "ID",
+    "latitude": -3.8459,
+    "longitude": 119.5222
+  },
+  {
+    "name": "Riverdale",
+    "country": "US",
+    "latitude": 41.17689,
+    "longitude": -112.00383
+  },
+  {
+    "name": "Sassetta",
+    "country": "IT",
+    "latitude": 43.12874,
+    "longitude": 10.64359
+  },
+  {
+    "name": "Notre-Dame-de-l'\u00cele-Perrot",
+    "country": "CA",
+    "latitude": 45.36678,
+    "longitude": -73.9325
+  },
+  {
+    "name": "Mani",
+    "country": "MX",
+    "latitude": 20.38774,
+    "longitude": -89.39189
+  },
+  {
+    "name": "Blockhouse Bay",
+    "country": "NZ",
+    "latitude": -36.9182,
+    "longitude": 174.70019
+  },
+  {
+    "name": "Pastor Ort\u00edz",
+    "country": "MX",
+    "latitude": 20.30552,
+    "longitude": -101.59588
+  },
+  {
+    "name": "Gargar",
+    "country": "AM",
+    "latitude": 40.9577,
+    "longitude": 44.44161
+  },
+  {
+    "name": "San Mateo",
+    "country": "PE",
+    "latitude": -11.75944,
+    "longitude": -76.30056
+  },
+  {
+    "name": "Qingxi",
+    "country": "CN",
+    "latitude": 26.43114,
+    "longitude": 110.35489
+  },
+  {
+    "name": "B\u00fclach / Gst\u00fcckt",
+    "country": "CH",
+    "latitude": 47.52337,
+    "longitude": 8.54879
+  },
+  {
+    "name": "Gartz",
+    "country": "DE",
+    "latitude": 53.20829,
+    "longitude": 14.39226
+  },
+  {
+    "name": "Bianhitouo",
+    "country": "CI",
+    "latitude": 7.04896,
+    "longitude": -8.26465
+  },
+  {
+    "name": "Kihancha",
+    "country": "KE",
+    "latitude": -1.19347,
+    "longitude": 34.61967
+  },
+  {
+    "name": "Sergelen",
+    "country": "MN",
+    "latitude": 46.2,
+    "longitude": 111.81667
+  },
+  {
+    "name": "Glattbach",
+    "country": "DE",
+    "latitude": 50.0076,
+    "longitude": 9.1499
+  },
+  {
+    "name": "Bia\u0142owie\u017ca",
+    "country": "PL",
+    "latitude": 52.7,
+    "longitude": 23.86667
+  },
+  {
+    "name": "Rindge",
+    "country": "US",
+    "latitude": 42.7512,
+    "longitude": -72.0098
+  },
+  {
+    "name": "Libi\u0161",
+    "country": "CZ",
+    "latitude": 50.27417,
+    "longitude": 14.5024
+  },
+  {
+    "name": "Santa B\u00e1rbara de La Cueva",
+    "country": "MX",
+    "latitude": 20.29632,
+    "longitude": -99.96296
+  },
+  {
+    "name": "Itapu\u00e3 do Oeste",
+    "country": "BR",
+    "latitude": -9.18616,
+    "longitude": -63.18514
+  },
+  {
+    "name": "Bethel",
+    "country": "US",
+    "latitude": 47.49398,
+    "longitude": -122.63125
+  },
+  {
+    "name": "Sant Gregori",
+    "country": "ES",
+    "latitude": 41.98333,
+    "longitude": 2.73333
+  },
+  {
+    "name": "Allakro",
+    "country": "CI",
+    "latitude": 6.32936,
+    "longitude": -4.54824
+  },
+  {
+    "name": "Petrovskiy",
+    "country": "RU",
+    "latitude": 52.24159,
+    "longitude": 40.64976
+  },
+  {
+    "name": "Juancho",
+    "country": "DO",
+    "latitude": 17.85782,
+    "longitude": -71.29311
+  },
+  {
+    "name": "Serm\u00e9rieu",
+    "country": "FR",
+    "latitude": 45.66995,
+    "longitude": 5.4111
+  },
+  {
+    "name": "'s-Heerenberg",
+    "country": "NL",
+    "latitude": 51.8767,
+    "longitude": 6.25877
+  },
+  {
+    "name": "Tamboril",
+    "country": "BR",
+    "latitude": -4.83222,
+    "longitude": -40.32056
+  },
+  {
+    "name": "Tongzilin",
+    "country": "CN",
+    "latitude": 26.70039,
+    "longitude": 101.85134
+  },
+  {
+    "name": "Potenza",
+    "country": "IT",
+    "latitude": 40.64175,
+    "longitude": 15.80794
+  },
+  {
+    "name": "Market Warsop",
+    "country": "GB",
+    "latitude": 53.20516,
+    "longitude": -1.15257
+  },
+  {
+    "name": "Quemado de G\u00fcines",
+    "country": "CU",
+    "latitude": 22.78816,
+    "longitude": -80.25226
+  },
+  {
+    "name": "Le Langon",
+    "country": "FR",
+    "latitude": 46.43792,
+    "longitude": -0.95005
+  },
+  {
+    "name": "Bagh",
+    "country": "PK",
+    "latitude": 33.98111,
+    "longitude": 73.77608
+  },
+  {
+    "name": "Ocurio",
+    "country": "MX",
+    "latitude": 19.48254,
+    "longitude": -100.42344
+  },
+  {
+    "name": "Lobuni",
+    "country": "ET",
+    "latitude": 4.83333,
+    "longitude": 36.1
+  },
+  {
+    "name": "Estancia de \u00c1nimas",
+    "country": "MX",
+    "latitude": 22.48795,
+    "longitude": -101.99526
+  },
+  {
+    "name": "Sindangan",
+    "country": "PH",
+    "latitude": 8.2376,
+    "longitude": 122.9974
+  },
+  {
+    "name": "Ala-Pispala",
+    "country": "FI",
+    "latitude": 61.50499,
+    "longitude": 23.70314
+  },
+  {
+    "name": "Huntingtown",
+    "country": "US",
+    "latitude": 38.61595,
+    "longitude": -76.61302
+  },
+  {
+    "name": "Oberottmarshausen",
+    "country": "DE",
+    "latitude": 48.23716,
+    "longitude": 10.85754
+  },
+  {
+    "name": "Naie",
+    "country": "JP",
+    "latitude": 43.41833,
+    "longitude": 141.88778
+  },
+  {
+    "name": "Itu",
+    "country": "NG",
+    "latitude": 5.20131,
+    "longitude": 7.98373
+  },
+  {
+    "name": "White Sulphur Springs",
+    "country": "US",
+    "latitude": 46.54828,
+    "longitude": -110.90216
+  },
+  {
+    "name": "Matenhoeve",
+    "country": "NL",
+    "latitude": 52.19056,
+    "longitude": 6.01338
+  },
+  {
+    "name": "Herram\u00e9lluri",
+    "country": "ES",
+    "latitude": 42.50295,
+    "longitude": -3.01954
+  },
+  {
+    "name": "Ehlscheid",
+    "country": "DE",
+    "latitude": 50.51448,
+    "longitude": 7.46655
+  },
+  {
+    "name": "Southwest Center City Philadelphia",
+    "country": "US",
+    "latitude": 39.94281,
+    "longitude": -75.18086
+  },
+  {
+    "name": "Kinoshita",
+    "country": "JP",
+    "latitude": 35.90059,
+    "longitude": 137.98777
+  },
+  {
+    "name": "Podgornoye",
+    "country": "RU",
+    "latitude": 57.78782,
+    "longitude": 82.65155
+  },
+  {
+    "name": "G\u0103le\u015fti",
+    "country": "RO",
+    "latitude": 46.51667,
+    "longitude": 24.75
+  },
+  {
+    "name": "Gutenstein",
+    "country": "AT",
+    "latitude": 47.876,
+    "longitude": 15.88881
+  },
+  {
+    "name": "San Diego Alcal\u00e1",
+    "country": "MX",
+    "latitude": 19.45121,
+    "longitude": -99.62115
+  },
+  {
+    "name": "In\u00edrida",
+    "country": "CO",
+    "latitude": 3.86528,
+    "longitude": -67.92389
+  },
+  {
+    "name": "Ma\u015fy\u0101f",
+    "country": "SY",
+    "latitude": 35.0653,
+    "longitude": 36.3406
+  },
+  {
+    "name": "Saint-Jouin-Bruneval",
+    "country": "FR",
+    "latitude": 49.64275,
+    "longitude": 0.164
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "latitude": 20.03748,
+    "longitude": -98.26864
+  },
+  {
+    "name": "Greifenstein",
+    "country": "DE",
+    "latitude": 50.61667,
+    "longitude": 8.3
+  },
+  {
+    "name": "Carlingford",
+    "country": "IE",
+    "latitude": 54.04,
+    "longitude": -6.18833
+  },
+  {
+    "name": "Sabang",
+    "country": "PH",
+    "latitude": 12.73333,
+    "longitude": 123.93333
+  },
+  {
+    "name": "Carde\u00f1osa de Volpejera",
+    "country": "ES",
+    "latitude": 42.23214,
+    "longitude": -4.70197
+  },
+  {
+    "name": "Greenwich",
+    "country": "US",
+    "latitude": 41.03005,
+    "longitude": -82.51573
+  },
+  {
+    "name": "Heidelberg",
+    "country": "AU",
+    "latitude": -37.75,
+    "longitude": 145.06667
+  },
+  {
+    "name": "Huando",
+    "country": "PE",
+    "latitude": -12.56434,
+    "longitude": -74.94728
+  },
+  {
+    "name": "Qorao\u2018zak",
+    "country": "UZ",
+    "latitude": 43.02207,
+    "longitude": 60.01701
+  },
+  {
+    "name": "Santa Cruz",
+    "country": "PH",
+    "latitude": 9.5352,
+    "longitude": 123.1054
+  },
+  {
+    "name": "Kutus",
+    "country": "KE",
+    "latitude": -0.57534,
+    "longitude": 37.3269
+  },
+  {
+    "name": "Peremetnoe",
+    "country": "KZ",
+    "latitude": 51.19801,
+    "longitude": 50.85291
+  },
+  {
+    "name": "Brookmans Park",
+    "country": "GB",
+    "latitude": 51.71977,
+    "longitude": -0.20153
+  },
+  {
+    "name": "La Robla",
+    "country": "ES",
+    "latitude": 42.80302,
+    "longitude": -5.62904
+  },
+  {
+    "name": "Romanu",
+    "country": "RO",
+    "latitude": 45.28333,
+    "longitude": 27.73333
+  },
+  {
+    "name": "Salimani",
+    "country": "KM",
+    "latitude": -11.8115,
+    "longitude": 43.26823
+  },
+  {
+    "name": "Oberteuringen",
+    "country": "DE",
+    "latitude": 47.72409,
+    "longitude": 9.46979
+  },
+  {
+    "name": "Weso\u0142a",
+    "country": "PL",
+    "latitude": 49.79977,
+    "longitude": 22.10029
+  },
+  {
+    "name": "Prepotto",
+    "country": "IT",
+    "latitude": 46.04522,
+    "longitude": 13.47921
+  },
+  {
+    "name": "Woldingham",
+    "country": "GB",
+    "latitude": 51.28527,
+    "longitude": -0.03372
+  },
+  {
+    "name": "Tunelu-Teliu",
+    "country": "RO",
+    "latitude": 45.7,
+    "longitude": 25.85
+  },
+  {
+    "name": "Kishangarh",
+    "country": "IN",
+    "latitude": 27.81889,
+    "longitude": 76.72972
+  },
+  {
+    "name": "Isigny-sur-Mer",
+    "country": "FR",
+    "latitude": 49.31604,
+    "longitude": -1.10384
+  },
+  {
+    "name": "Xochicuautla",
+    "country": "MX",
+    "latitude": 20.05377,
+    "longitude": -97.88912
+  },
+  {
+    "name": "T\u00e2rnova",
+    "country": "RO",
+    "latitude": 46.31667,
+    "longitude": 21.8
+  },
+  {
+    "name": "Ringsheim",
+    "country": "DE",
+    "latitude": 48.24765,
+    "longitude": 7.77823
+  },
+  {
+    "name": "W\u00d6S",
+    "country": "AT",
+    "latitude": 48.16553,
+    "longitude": 14.03651
+  },
+  {
+    "name": "Santa Catalina",
+    "country": "AR",
+    "latitude": -21.94567,
+    "longitude": -66.05188
+  },
+  {
+    "name": "Del Monte",
+    "country": "PH",
+    "latitude": 14.6418,
+    "longitude": 121.0177
+  },
+  {
+    "name": "Rutshuru",
+    "country": "CD",
+    "latitude": -1.18666,
+    "longitude": 29.44669
+  },
+  {
+    "name": "San Cosme",
+    "country": "AR",
+    "latitude": -27.37137,
+    "longitude": -58.51112
+  },
+  {
+    "name": "Mpigi",
+    "country": "UG",
+    "latitude": 0.225,
+    "longitude": 32.31361
+  },
+  {
+    "name": "Sotteville-l\u00e8s-Rouen",
+    "country": "FR",
+    "latitude": 49.40972,
+    "longitude": 1.09005
+  },
+  {
+    "name": "Boseong",
+    "country": "KR",
+    "latitude": 34.77148,
+    "longitude": 127.07996
+  },
+  {
+    "name": "Hahnheim",
+    "country": "DE",
+    "latitude": 49.86083,
+    "longitude": 8.23694
+  },
+  {
+    "name": "Kanie",
+    "country": "JP",
+    "latitude": 35.13333,
+    "longitude": 136.8
+  },
+  {
+    "name": "Ondara",
+    "country": "ES",
+    "latitude": 38.82817,
+    "longitude": 0.0172
+  },
+  {
+    "name": "Sch\u00f6nkirchen-Reyersdorf",
+    "country": "AT",
+    "latitude": 48.35477,
+    "longitude": 16.69115
+  },
+  {
+    "name": "\u017dagar\u0117",
+    "country": "LT",
+    "latitude": 56.36149,
+    "longitude": 23.25094
+  },
+  {
+    "name": "Asparn an der Zaya",
+    "country": "AT",
+    "latitude": 48.58333,
+    "longitude": 16.5
+  },
+  {
+    "name": "Un Chau Estate",
+    "country": "HK",
+    "latitude": 22.33633,
+    "longitude": 114.15616
+  },
+  {
+    "name": "Saint-Leu",
+    "country": "RE",
+    "latitude": -21.17059,
+    "longitude": 55.28824
+  }
 ]

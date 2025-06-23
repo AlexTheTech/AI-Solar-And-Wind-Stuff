@@ -1,5 +1,6 @@
 import json
 import os
+import argparse
 from datetime import datetime, timedelta
 import requests
 import pandas as pd
@@ -23,6 +24,7 @@ HOURLY_VARS = [
 
 
 def load_locations(path="locations.json"):
+    """Load location definitions from JSON."""
     with open(path, "r") as f:
         return json.load(f)
 
@@ -56,10 +58,22 @@ def save_data(df, location):
 
 
 def main():
-    locations = load_locations()
-    # default timeframe: last 60 days
-    end = datetime.utcnow().date()
-    start = end - timedelta(days=60)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--locations_file", default="locations.json")
+    parser.add_argument("--start_date")
+    parser.add_argument("--end_date")
+    parser.add_argument("--days", type=int, default=60,
+                        help="Number of days back from end_date if start_date not provided")
+    args = parser.parse_args()
+
+    locations = load_locations(args.locations_file)
+
+    end = datetime.fromisoformat(args.end_date).date() if args.end_date else datetime.utcnow().date()
+    if args.start_date:
+        start = datetime.fromisoformat(args.start_date).date()
+    else:
+        start = end - timedelta(days=args.days)
+
     for loc in locations:
         try:
             df = fetch_location(loc, start.isoformat(), end.isoformat())
